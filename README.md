@@ -77,7 +77,7 @@ To run the Blog Post App locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/joinprakhar/blog-q/
+git clone https://github.com/tiwarivaishali2022/blogapp
 
 cd api
 
