@@ -1,7 +1,7 @@
 The Post App
 The Blog Post App is a web application that allows users to create, read, update, and delete blog posts. The app also includes user authentication to ensure that only authorized users can perform CRUD operations. Additionally, the app incorporates a profanity filter to prevent the posting of offensive content.
 
-<img width="700" alt="image" src="https://github.com/joinprakhar/blog-q/assets/118005176/9b606a99-583e-4df4-96a7-a6edb87136d6">
+<img width="700" alt="image" src="https://github.com/joinprakhar/blog-q/assets/118005176/9b606a99-583e-4df4-96a7-a6edb871136d6">
 
 Table of Contents
 Introduction
